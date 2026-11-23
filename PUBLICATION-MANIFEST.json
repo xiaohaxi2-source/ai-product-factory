@@ -1,0 +1,565 @@
+{
+  "schema_version": 1,
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "980e414c3298acc6258487a13fcaf8b96f3d36e61529c28bd7003f88b3d05dba",
+      "bytes": 191
+    },
+    {
+      "path": "AGENTS.md",
+      "sha256": "2ea5f8df21356e7b15e99160a0bd9468510919800c48dd24bde154a28c4ea33e",
+      "bytes": 24214
+    },
+    {
+      "path": "CLAUDE.md",
+      "sha256": "00ef62a753b438e209a1bbbb4d286bcf1323b3465f3b97e1a605dafcb0e522af",
+      "bytes": 124
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "e7e412ad2bceb0e5b06971e6cec38d7adcb226861909c4af288863bd0ae9d91f",
+      "bytes": 1067
+    },
+    {
+      "path": "README.md",
+      "sha256": "ff754228640aa4356d24501d74f45eb8f9f1ee0428f5c05cbfe4789ce0b1a30b",
+      "bytes": 4073
+    },
+    {
+      "path": "docs/PRD模板.md",
+      "sha256": "77fb4ebc6182fe9a43098d2a7fa6aa8318ae1d2d618c62a2bd856ae53f77d1f6",
+      "bytes": 2863
+    },
+    {
+      "path": "docs/手册/AI产品 Vibe Coding 通用上线部署手册.md",
+      "sha256": "5dd2a6968195008dd061a52468b7305cbe044e48a3470883dd104f96c7426389",
+      "bytes": 41984
+    },
+    {
+      "path": "docs/手册/AI产品Vibe Coding通用前端技术栈手册.md",
+      "sha256": "a0a479fb103f838c0a043213d04ab68dbaded93ebe8842ac3e9354adcf7ca5d8",
+      "bytes": 52066
+    },
+    {
+      "path": "docs/手册/AI产品Vibe Coding通用技术栈手册.md",
+      "sha256": "09526b2ae2efe3468a9af7f5002e3c6d7c267566bf114df437a5b3a60b72fb18",
+      "bytes": 62074
+    },
+    {
+      "path": "docs/手册/参考代码/腾讯云开发/README.md",
+      "sha256": "1a603c211424d0b9931a26b87653e46fa736456f9fec5f5225c5253351fbf117",
+      "bytes": 4855
+    },
+    {
+      "path": "docs/手册/参考代码/腾讯云开发/backend/.dockerignore",
+      "sha256": "2cdaa08e3beafb50ecf50015b55fa3447297f978fa974e14e07e3f754fb4e236",
+      "bytes": 90
+    },
+    {
+      "path": "docs/手册/参考代码/腾讯云开发/backend/.env.example",
+      "sha256": "410d376f3a2155ce5166d3ade1e70ae20b4e52e8d683e7ace59243abac280a47",
+      "bytes": 3121
+    },
+    {
+      "path": "docs/手册/参考代码/腾讯云开发/backend/Dockerfile",
+      "sha256": "2ed4e28ba7c8dd071498c5dac5d5119346a3e5dbec23cb53f03aba2ac9e0b33c",
+      "bytes": 1268
+    },
+    {
+      "path": "docs/手册/参考代码/腾讯云开发/backend/app/api/auth.py",
+      "sha256": "b9b70c61eb3f81437bdc1125db3b385c741707aab8bdd0029c5f3fbc0876a940",
+      "bytes": 4214
+    },
+    {
+      "path": "docs/手册/参考代码/腾讯云开发/backend/app/services/auth.py",
+      "sha256": "cbb386c24527ed0c9e265a20061c87edddb92b383189d10e769a47c6b289c0bf",
+      "bytes": 7182
+    },
+    {
+      "path": "docs/手册/参考代码/腾讯云开发/backend/app/services/repository.py",
+      "sha256": "056766245ccad0aa66bee186f25bfe9e4eeacf7cbcbb6f02ae887ea913540c4b",
+      "bytes": 5510
+    },
+    {
+      "path": "docs/手册/参考代码/腾讯云开发/backend/app/services/rest_repository.py",
+      "sha256": "a28a351c2ae3a09b88d5d6e8fe2ffaa087154765237b4e5e5eca489663387917",
+      "bytes": 12299
+    },
+    {
+      "path": "docs/手册/参考代码/腾讯云开发/backend/migrations/001_init.sql",
+      "sha256": "790b676e2e24c953ddc99d82808d3482d1977aef9487e512a4ff516d37506fa2",
+      "bytes": 3089
+    },
+    {
+      "path": "docs/手册/参考代码/腾讯云开发/backend/tests/conftest.py",
+      "sha256": "4a9a5a475807b85f647ee12ca33d81ac94e3bae0106e3002e6d17ae765b18685",
+      "bytes": 7865
+    },
+    {
+      "path": "docs/手册/参考代码/腾讯云开发/deploy_cloudrun.py",
+      "sha256": "465f134b04c92d0a4016f9b6b61d58cce492e6a310b8f510757f02c426e66c9b",
+      "bytes": 10284
+    },
+    {
+      "path": "docs/手册/参考代码/腾讯云开发/frontend/.dockerignore",
+      "sha256": "25c54f21e414392c98f726d64453d59cf4ac414b3814aae7b822a0aabdc365ed",
+      "bytes": 118
+    },
+    {
+      "path": "docs/手册/参考代码/腾讯云开发/frontend/.env.example",
+      "sha256": "9087f4993e38b8ea65b0a198ee0942b0a228b06ee8e1928a83341f07c2bb3050",
+      "bytes": 429
+    },
+    {
+      "path": "docs/手册/参考代码/腾讯云开发/frontend/Dockerfile",
+      "sha256": "7e2c85bcab633565c27f98552a773987da2a2e1714156dfc51239c6b48aa97a2",
+      "bytes": 1639
+    },
+    {
+      "path": "docs/手册/参考代码/腾讯云开发/frontend/lib/proxy/forward.ts",
+      "sha256": "c587c4bd6e5d1f1f5ee1c0373445b427ded0e22178f592ce080254d5ed4f6b93",
+      "bytes": 4156
+    },
+    {
+      "path": "docs/手册/参考代码/腾讯云开发/frontend/next.config.ts",
+      "sha256": "90077ddcf88424d047a01fc3f8a34c7c990f219d4b519f85281bbdf437623bd5",
+      "bytes": 650
+    },
+    {
+      "path": "docs/手册/参考代码/腾讯云开发/frontend/proxy.ts",
+      "sha256": "ef3b39e5c5ea53da7083b6deca6edd8ff863614c6a880682c79449e1b65493b1",
+      "bytes": 2518
+    },
+    {
+      "path": "docs/手册/参考代码/腾讯云开发/save_secret_from_clipboard.py",
+      "sha256": "f4dd8aad5229a6c5bc82bf1fb81066a680e79e2a06cf891270d37ff7d6da9e05",
+      "bytes": 2658
+    },
+    {
+      "path": "docs/手册/参考代码/腾讯云开发/set_cloudrun_env.py",
+      "sha256": "4a9bc300c39d95f36197f8bac19d422db6e9f2318fc95ed71909fb13cc3feec3",
+      "bytes": 5876
+    },
+    {
+      "path": "docs/手册/参考代码/腾讯云开发/给产品经理的上线指引-范例.md",
+      "sha256": "02f942c530ab5958835d519c8b426863b68c0e5658ebb6c593b71955715f9d8f",
+      "bytes": 15609
+    },
+    {
+      "path": "install.command",
+      "sha256": "d927a2489153d4d159641ad51ca0aee153cffd278f9deda0300b1a0ea6e8c839",
+      "bytes": 46
+    },
+    {
+      "path": "install.sh",
+      "sha256": "449e1eabdf2a1faa9245bf379ce35df2e68091ceadb0b0cb128f0de2a355db68",
+      "bytes": 671
+    },
+    {
+      "path": "kit.sh",
+      "sha256": "0a7fb4e864c1401979b16adc629164a47128d43f7547fcb0b0964ebb8401e3b8",
+      "bytes": 20214
+    },
+    {
+      "path": "projects/AI产品工厂/README.md",
+      "sha256": "b08992d7842c82e758a5168d28c1993d5fa9295344b9a2f4c11a6534b963c63f",
+      "bytes": 334
+    },
+    {
+      "path": "projects/AI产品工厂/backend/.env.example",
+      "sha256": "11c39b17c18b4088dc7ae14e66d463324155bf75e427d4e06d97ba360c2323a8",
+      "bytes": 615
+    },
+    {
+      "path": "projects/AI产品工厂/backend/alembic/env.py",
+      "sha256": "6722d40887732118f6f7fc1abdd32221a41f931d43cb0ea8ed3f96ffa7e9950c",
+      "bytes": 613
+    },
+    {
+      "path": "projects/AI产品工厂/backend/alembic/versions/0001_factory.py",
+      "sha256": "1fbad9ff6029551f2ddc0638ee6389fe8bb5e7938305f9eecbebdd907f77f327",
+      "bytes": 407
+    },
+    {
+      "path": "projects/AI产品工厂/backend/alembic/versions/0002_planning.py",
+      "sha256": "f1fa32358a872caa00f96c0f06f65dd2aefe0bb55107f9829d08195c38b38633",
+      "bytes": 504
+    },
+    {
+      "path": "projects/AI产品工厂/backend/alembic/versions/0003_execution.py",
+      "sha256": "762bd3e949f6f4fa0c663027aa7b6c41e17a5137796d68e3d661be8bf406abc6",
+      "bytes": 395
+    },
+    {
+      "path": "projects/AI产品工厂/backend/alembic/versions/0004_verification.py",
+      "sha256": "ded9a97f87b59728b111a0eb36bd151c2177258f158024a75e6cafc09d63b845",
+      "bytes": 404
+    },
+    {
+      "path": "projects/AI产品工厂/backend/alembic.ini",
+      "sha256": "1f39bd58f9b8addbd9252ddfc1729f0bc425f1f8514f79aa12d83f997c3cfa50",
+      "bytes": 113
+    },
+    {
+      "path": "projects/AI产品工厂/backend/app/check_sandbox.py",
+      "sha256": "bfe1da9fc53b13eb3cbc94494d5d4c549c45fc697441cc130d2efdba0273771c",
+      "bytes": 4714
+    },
+    {
+      "path": "projects/AI产品工厂/backend/app/codex.py",
+      "sha256": "d06ff37389c9ff50b0e98d898760b344632ad5df721595f0c041d4f4bf470f9c",
+      "bytes": 18628
+    },
+    {
+      "path": "projects/AI产品工厂/backend/app/core.py",
+      "sha256": "025fa7f7bcc4ba0a07a130500b452c0e82c63bee495e40d387b8822016854ce8",
+      "bytes": 1651
+    },
+    {
+      "path": "projects/AI产品工厂/backend/app/deliverables.py",
+      "sha256": "34b5cff298ac91998fe210a1329cf8483424ffcab4e616d295210c6f593e289c",
+      "bytes": 9104
+    },
+    {
+      "path": "projects/AI产品工厂/backend/app/documents.py",
+      "sha256": "ce8b1c132528fc065c06d99d1c57974518949e8e1cb013f74b06f5345baf6857",
+      "bytes": 2853
+    },
+    {
+      "path": "projects/AI产品工厂/backend/app/execution.py",
+      "sha256": "b4f142224f812ce4344ff2cd5399b6e1177afe44894a638dd0007a244eaa6c6c",
+      "bytes": 21602
+    },
+    {
+      "path": "projects/AI产品工厂/backend/app/jobs.py",
+      "sha256": "d569afe1a093605226b063caf4880bc989bcd18978ca612a3e0151028eee7c63",
+      "bytes": 10992
+    },
+    {
+      "path": "projects/AI产品工厂/backend/app/main.py",
+      "sha256": "fd047bad2c9cfb0ab069f177cda8df050a0e50051a90eb672efd181cd9b2ccbe",
+      "bytes": 19256
+    },
+    {
+      "path": "projects/AI产品工厂/backend/app/model.py",
+      "sha256": "b6406f2bce021add2ff4f64dcd6202c14b8846b9e1e8171620d96e70038979dd",
+      "bytes": 6508
+    },
+    {
+      "path": "projects/AI产品工厂/backend/app/planning.py",
+      "sha256": "fb4d50c3d9717c5f840ff7ff1852b17bf3815bb34072da659ac82eece572ada1",
+      "bytes": 13726
+    },
+    {
+      "path": "projects/AI产品工厂/backend/app/schemas.py",
+      "sha256": "9e5dee8a5d983dde6033f8d30b3303c8b2ddee564ec373c2bc0efa4c8fce235d",
+      "bytes": 14577
+    },
+    {
+      "path": "projects/AI产品工厂/backend/app/services/prompts/audit_prd.txt",
+      "sha256": "292f83b1953bdf548a5ab7195b8bb339993217109358c1a4c40c27c2faf2a260",
+      "bytes": 1574
+    },
+    {
+      "path": "projects/AI产品工厂/backend/app/services/prompts/development_code.txt",
+      "sha256": "f0bb68e69565a5649be2f87dc93aabd0d7272808297e5c384428c70d3ef121f1",
+      "bytes": 4024
+    },
+    {
+      "path": "projects/AI产品工厂/backend/app/services/prompts/development_tasks.txt",
+      "sha256": "ad5b79729db16d84f326d410076543c6e57bdd059fb0081195174abc6b09645a",
+      "bytes": 1297
+    },
+    {
+      "path": "projects/AI产品工厂/backend/app/services/prompts/draft_prd.txt",
+      "sha256": "8df915ba7b03fc04dd7dbe856105dde98901cadc3b9cb681ce764538279e6558",
+      "bytes": 1159
+    },
+    {
+      "path": "projects/AI产品工厂/backend/app/services/prompts/finalize_prd.txt",
+      "sha256": "f12b3dd2420fdbd3be11234822bcfc649d10e7bf79bc3a327949b9d7f6e0796d",
+      "bytes": 3181
+    },
+    {
+      "path": "projects/AI产品工厂/backend/app/services/prompts/interview.txt",
+      "sha256": "353a6f7d129ae54622ba26325facbcb0ecf8f2878013d25a7907001d09c044df",
+      "bytes": 2037
+    },
+    {
+      "path": "projects/AI产品工厂/backend/app/services/prompts/technical_proposal.txt",
+      "sha256": "05c463f63f0f62989469def3849ed41126197a1a5c250a3b1a4381c8fb17df11",
+      "bytes": 1869
+    },
+    {
+      "path": "projects/AI产品工厂/backend/app/store.py",
+      "sha256": "45a903256d841e2e859f39e0019f27f5b310e380796d890148efc4a42b32c215",
+      "bytes": 16274
+    },
+    {
+      "path": "projects/AI产品工厂/backend/app/synthetic_demo.py",
+      "sha256": "0d4e542afe015d79ffbe8e24bb9d9df91eae71ec0935b067aecfadd37b1a1625",
+      "bytes": 7440
+    },
+    {
+      "path": "projects/AI产品工厂/backend/app/toolkit.py",
+      "sha256": "13726ed7813b90def16cfd6a5f8f82aa1fd52e60c8809fff7e8a5884ee88add4",
+      "bytes": 1811
+    },
+    {
+      "path": "projects/AI产品工厂/backend/app/verification.py",
+      "sha256": "9a243b93b4dc16df52d66067c3de3dd96ebbfbeda27dec717217a52290e760a1",
+      "bytes": 25381
+    },
+    {
+      "path": "projects/AI产品工厂/backend/app/workflow.py",
+      "sha256": "7446aeadcc02c98270dd57fc7ad71f3747ee033dfccfc0e1818887118612bb4c",
+      "bytes": 20738
+    },
+    {
+      "path": "projects/AI产品工厂/backend/requirements-lock.txt",
+      "sha256": "b2f078b972a9a03d8a07291862f7e99c308c6a4b42f32f41fbfc3ecaec66d83e",
+      "bytes": 480
+    },
+    {
+      "path": "projects/AI产品工厂/backend/requirements.txt",
+      "sha256": "494d6e70cf493f44f65c4a4243065a071eb1ad3048691a225fd2a61703bd611b",
+      "bytes": 195
+    },
+    {
+      "path": "projects/AI产品工厂/backend/static/app.js",
+      "sha256": "31d1bb4eb927c1da96bdb6fe75db2e2c259901c1fc11a188332367c0f2f4e65b",
+      "bytes": 28244
+    },
+    {
+      "path": "projects/AI产品工厂/backend/static/conversation-model.js",
+      "sha256": "0871fdec5cabc1555520b84749dda03f90ca9dfdfb6319fdd0be5f72327f7ce6",
+      "bytes": 4478
+    },
+    {
+      "path": "projects/AI产品工厂/backend/static/conversation-view.js",
+      "sha256": "100e510d4586f88454a43888b597dfe3f2a14956b5ce4ae137465fe4727e8c0e",
+      "bytes": 18602
+    },
+    {
+      "path": "projects/AI产品工厂/backend/static/conversation.css",
+      "sha256": "91d5d6a7672637e769bf30659e7cadea46c00ebc9ca7afda0e810bd6f92d6db0",
+      "bytes": 18723
+    },
+    {
+      "path": "projects/AI产品工厂/backend/static/factory.css",
+      "sha256": "b1733d08cae126d16440bc5a476cf2571f7043d7e47a1017db20117cae2a0ed3",
+      "bytes": 9704
+    },
+    {
+      "path": "projects/AI产品工厂/backend/static/index.html",
+      "sha256": "bb26664655e87b56cc85377c9b3968b16ecd1669fbfc0f211580c14c20fe0de9",
+      "bytes": 14028
+    },
+    {
+      "path": "projects/AI产品工厂/backend/static/synthetic-demo.css",
+      "sha256": "73cd9b236103bfc3f308008dd5389e837c7e39f5e6c1b135989c6cb57e8b56e2",
+      "bytes": 750
+    },
+    {
+      "path": "projects/AI产品工厂/backend/static/synthetic-demo.html",
+      "sha256": "73ddeddf7b13f706c10dd1d1ec38d71c3b0734091507e25ff376ff5b3f23250b",
+      "bytes": 1313
+    },
+    {
+      "path": "projects/AI产品工厂/backend/static/synthetic-demo.js",
+      "sha256": "f47fcdf261a67d751448c57cca4f23ad8cf2c816e1aaf596cb02e384f218eb5d",
+      "bytes": 2749
+    },
+    {
+      "path": "projects/AI产品工厂/backend/static/technical-partner.svg",
+      "sha256": "15855ac2541a1789837aaad3399c3fc27f1ac19f6ee9e4f831c1009189ab9a58",
+      "bytes": 1698
+    },
+    {
+      "path": "projects/AI产品工厂/backend/static/workspace-disclosures.js",
+      "sha256": "5404c20d51bf0e1475553b37773b30a4a9191275162778d6a12ffa38bd5d7215",
+      "bytes": 2077
+    },
+    {
+      "path": "projects/AI产品工厂/backend/tests/conftest.py",
+      "sha256": "84b9a3de9e7c1486fde20661a8015b958a230e4ae20dec7be2e71bcc9d5f94b1",
+      "bytes": 4165
+    },
+    {
+      "path": "projects/AI产品工厂/backend/tests/conversation-model.test.cjs",
+      "sha256": "6d1329107dccf17f69b50048c587fdc057261831fc3af2d4b48f2e0770344c6e",
+      "bytes": 3026
+    },
+    {
+      "path": "projects/AI产品工厂/backend/tests/test_codex.py",
+      "sha256": "2b047c2d14e84a5d2faddce035c0a7c16fb49591a03fa19fcb2499fdeda4c190",
+      "bytes": 12354
+    },
+    {
+      "path": "projects/AI产品工厂/backend/tests/test_conversation_ui.py",
+      "sha256": "a9ae66ef84aba1fe55d21218bc93d97d58280ca6575f424429f8edf1045d07b3",
+      "bytes": 1212
+    },
+    {
+      "path": "projects/AI产品工厂/backend/tests/test_deepseek_probe.py",
+      "sha256": "4f1df53bcd9767fa34c47b8a4b960872fec60fc0eb290d71907d4699cf7414b3",
+      "bytes": 2012
+    },
+    {
+      "path": "projects/AI产品工厂/backend/tests/test_deliverables.py",
+      "sha256": "654b3b6ad39c9fc87acfde2bfa9601fb4c0d0820b0870c94ee9502c445200d47",
+      "bytes": 4918
+    },
+    {
+      "path": "projects/AI产品工厂/backend/tests/test_execution.py",
+      "sha256": "9fc88e4bb2ca549f8cfcf39aefed9a3c5a33558e35b15fd8c24732a281e2931e",
+      "bytes": 14716
+    },
+    {
+      "path": "projects/AI产品工厂/backend/tests/test_planning.py",
+      "sha256": "86e4684c8736e2ee70b2251a92fe3c5e18502666e8529411677a47bbe40038fb",
+      "bytes": 11937
+    },
+    {
+      "path": "projects/AI产品工厂/backend/tests/test_synthetic_web.py",
+      "sha256": "28a88a024c6a30f4d6700f09ae0fc2517277d48690c36021bbd5ae7df9159c2a",
+      "bytes": 4324
+    },
+    {
+      "path": "projects/AI产品工厂/backend/tests/test_upload.py",
+      "sha256": "afa4dcddee63c41e18259f4ca10d02890d964a64a8b9ed7dce187de243c4df3b",
+      "bytes": 1294
+    },
+    {
+      "path": "projects/AI产品工厂/backend/tests/test_verification.py",
+      "sha256": "17c3d239b16b5d39560dd5b4d8c6fcfd624a209144146e8390600ef6f390e6ae",
+      "bytes": 9303
+    },
+    {
+      "path": "projects/AI产品工厂/backend/tests/test_workflow.py",
+      "sha256": "096008edcb10cd032f32a0ade181e6f1cb174692a7b7b75b653b57a1d3089d38",
+      "bytes": 15409
+    },
+    {
+      "path": "projects/AI产品工厂/docs/PRD/PRD.md",
+      "sha256": "87eb586e77c89b72d5da96d45a7b316b4d0fcdb8ec0a7c6da99eda6ac853dd6b",
+      "bytes": 1177
+    },
+    {
+      "path": "projects/AI产品工厂/docs/architecture.md",
+      "sha256": "d89f5e5ebdfd3f8999c566002934dfaeccb564b1c81c9cc9731e9ba7f4036be8",
+      "bytes": 813
+    },
+    {
+      "path": "projects/AI产品工厂/scripts/probe_deepseek.py",
+      "sha256": "4fded13be11bdee772cb55a8f23bf7ce0cb5785b7e289ef95e797bea2d1a822a",
+      "bytes": 1650
+    },
+    {
+      "path": "projects/AI产品工厂/scripts/restart-check.sh",
+      "sha256": "f5a24deed2db336f91277ca94e5f44d5307e5eb15855be653fffbdd881b2ee49",
+      "bytes": 186
+    },
+    {
+      "path": "projects/AI产品工厂/scripts/restart_probe.py",
+      "sha256": "13bb8561002111e4e56933f62191fbd122fe1fe33509593d17aa7f602b985f1d",
+      "bytes": 4096
+    },
+    {
+      "path": "projects/AI产品工厂/scripts/server.py",
+      "sha256": "54067cd360dac56c89d9ba0ff6acb757b738a3d666ddfd2d198aeba5620058a9",
+      "bytes": 457
+    },
+    {
+      "path": "projects/AI产品工厂/scripts/smoke.py",
+      "sha256": "3dec12f80161dcde019eb9d6a4da4e6e43f5de209c545265ae636b8498ae0180",
+      "bytes": 7808
+    },
+    {
+      "path": "projects/AI产品工厂/scripts/smoke_decision_history.py",
+      "sha256": "1ae9e40987479d9b716ef55788bee250a4fdf8e9e0870a9dfede6eca7a47621c",
+      "bytes": 4442
+    },
+    {
+      "path": "projects/AI产品工厂/scripts/smoke_execution.py",
+      "sha256": "17bf8411c557804011a211be820500130b10c2faeb8d632e012f953af7bbc52c",
+      "bytes": 7441
+    },
+    {
+      "path": "projects/AI产品工厂/scripts/smoke_execution_timeout.py",
+      "sha256": "7290f7c0a56a8ef472147c96ae800460a8756f504cf9cfa9a2600a56812bd32b",
+      "bytes": 4809
+    },
+    {
+      "path": "projects/AI产品工厂/scripts/smoke_pending.py",
+      "sha256": "73da1c1a47f51bff088cd75ec3f1df057dfd05011eeae8f991e6c783235d9cf1",
+      "bytes": 4012
+    },
+    {
+      "path": "projects/AI产品工厂/scripts/smoke_planning.py",
+      "sha256": "1664bff23b3d01552bd5e0d5f27a128c9e88129edca3b1f3f78fe8ce68292672",
+      "bytes": 5846
+    },
+    {
+      "path": "projects/AI产品工厂/scripts/smoke_verification.py",
+      "sha256": "0b78de8e5a31bce7a1a7fc4c34993dc82caed5604541a84880a441931c842672",
+      "bytes": 4515
+    },
+    {
+      "path": "projects/AI产品工厂/scripts/smoke_verification_contract.py",
+      "sha256": "af306c852846984e0aa4884b2b8322478a1202aabe7ea817e358d4b8d2b29652",
+      "bytes": 4683
+    },
+    {
+      "path": "projects/AI产品工厂/start.command",
+      "sha256": "15791b50317b5c58f082e0c48abfe3093b5d994f7fb37f27da43968140f5b973",
+      "bytes": 73
+    },
+    {
+      "path": "site/.nojekyll",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "site/assets/technical-partner.svg",
+      "sha256": "15855ac2541a1789837aaad3399c3fc27f1ac19f6ee9e4f831c1009189ab9a58",
+      "bytes": 1698
+    },
+    {
+      "path": "site/assets/workflow.png",
+      "sha256": "addc678b2bf67191cc80b8ec30fec718b8a3ac4887bcc865e0d842bd2a13d3e8",
+      "bytes": 150528
+    },
+    {
+      "path": "site/assets/workspace.png",
+      "sha256": "905cad1435e45fb33baabe4606f42b64c2746fda9dce04ea8f7d10dcf9c6993b",
+      "bytes": 148293
+    },
+    {
+      "path": "site/index.html",
+      "sha256": "7cfb27f35b496f26ded6540d8e18c1b6ee0dfb79cdc00fad1e0c234eda331d21",
+      "bytes": 6168
+    },
+    {
+      "path": "site/site.js",
+      "sha256": "b1ca1b5cbeb33046d6074c284a568e1bd6d1c404007b31b30f9d296c7ee67ad6",
+      "bytes": 407
+    },
+    {
+      "path": "site/style.css",
+      "sha256": "0c9236a25bbb81eb54855ce8f7c2050baffd791cf9fcc88becec701d015bd9ed",
+      "bytes": 6096
+    },
+    {
+      "path": "start.command",
+      "sha256": "f62a7ca97627e1e99528d87ef1fde1ceb3ef08bf20a766b068813391e50a30e9",
+      "bytes": 125
+    },
+    {
+      "path": "verify.sh",
+      "sha256": "91db089cd7193d660c254f69478927af2e707ed0bbe803bab5a31274c51359f1",
+      "bytes": 17588
+    }
+  ]
+}
